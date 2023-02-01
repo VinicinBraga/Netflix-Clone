@@ -8,8 +8,8 @@
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0",
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.2"
   },
@@ -21,7 +21,6 @@
   },
   "eslintConfig": {
     "extends": [
-      "plugin:react/recommended",
       "react-app",
       "react-app/jest"
     ]
@@ -37,8 +36,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "eslint-plugin-react": "^7.32.2"
   }
 }
