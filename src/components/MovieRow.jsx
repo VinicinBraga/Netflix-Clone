@@ -37,6 +37,7 @@ const MovieRow = ({ title, items, setFeaturedData }) => {
           {items.results.length > 0 &&
             items.results.map((item, key) => (
               <div
+                key={key}
                 className="movieRow--item"
                 onClick={() => setFeaturedData(item)}
               >
