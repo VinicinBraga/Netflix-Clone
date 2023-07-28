@@ -4,7 +4,7 @@
 Um clone da página de entrada do Netflix, construído com React, JavaScript e Material-UI. Este projeto é inicializado com Vite, proporcionando uma configuração de desenvolvimento rápida e eficiente.
 
 ## Demonstração
-Inclua um link ou GIF para uma demonstração ao vivo ou uma pré-visualização do seu projeto. Isso pode ser hospedado em qualquer plataforma (por exemplo, Netlify, Vercel ou GitHub Pages).
+https://netflix-clone-7qvpmpqf8-vinicinbraga.vercel.app/
 
 Veja uma demonstração ao vivo aqui
 
@@ -62,5 +62,7 @@ Este projeto está licenciado sob a MIT License.
 Se você tiver alguma dúvida ou precisar entrar em contato, pode me encontrar em:
 
 Email: vinicius@bragamatta.com ou vinibm85@gmail.com
+
 GitHub: https://github.com/VinicinBraga
+
 Linkedin: https://www.linkedin.com/in/vinícius-braga
