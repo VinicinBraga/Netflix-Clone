@@ -1,5 +1,4 @@
 # Netflix-Clone
-Netflix-Clone Preview (./src/assets/screenshot.png)
 ![Netflix Clone](./src/assets/screenshot.png)
 
 Um clone da página de entrada do Netflix, construído com React, JavaScript e Material-UI. Este projeto é inicializado com Vite, proporcionando uma configuração de desenvolvimento rápida e eficiente.
@@ -12,21 +11,25 @@ Veja uma demonstração ao vivo aqui
 ## Instalação
 1.Certifique-se de ter o Node.js instalado.
 2.Clone este repositório para o seu ambiente local usando:
-  ```bash
-  git clone https://github.com/VinicinBraga/Netflix-Clone.git
+```bash
+git clone https://github.com/VinicinBraga/Netflix-Clone.git
+```
 
 3.Acesse o diretório do projeto:
+```bash
 cd Netflix-Clone
-
+```
 4.Instale as dependências do projeto:
+```bash
 npm install
+```
 
 ## Como usar
 
 npm run dev
 
 ## Estrutura do Projeto
-
+```bash
 Netflix-Clone/
 ├── public/
 │   ├── vite.svg
@@ -48,7 +51,7 @@ Netflix-Clone/
 ├── package.json
 ├── ...
 └── README.md
-
+```
 ## Contribuição
 Contribuições são bem-vindas! Se você encontrar bugs, problemas ou tiver melhorias a serem sugeridas, abra uma issue ou envie uma solicitação de pull.
 
