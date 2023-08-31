@@ -4,7 +4,7 @@
 Um clone da página de entrada do Netflix, construído com React, JavaScript e Material-UI. Este projeto é inicializado com Vite, proporcionando uma configuração de desenvolvimento rápida e eficiente.
 
 ## Demonstração
-https://netflix-clone-7qvpmpqf8-vinicinbraga.vercel.app/
+https://netflix-clone-henna-nine.vercel.app
 
 Veja uma demonstração ao vivo aqui
 
